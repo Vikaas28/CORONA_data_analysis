@@ -12,7 +12,7 @@ A data analysis project exploring COVID-19 trends, case statistics, and vaccinat
 ## 📂 Dataset Used
 - [Johns Hopkins University CSSE Dataset](https://github.com/CSSEGISandData/COVID-19)
 - [Our World in Data COVID-19](https://github.com/owid/covid-19-data)
-- (Add your custom sources if any)
+
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
